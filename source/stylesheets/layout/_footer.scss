@@ -1,17 +1,18 @@
 /* Footer design */
 .wrapper-grey {
-  background: #F4F4F4;
+  background: $light-blue;
 }
 #footer {
   /*padding-top: 40px;*/
-  background-color: #333333;
-  color: #CCCCCC;
+  background-color: $gray-light;
+  color: $light-blue;
   padding: 30px;
+  font-size: 18px
 }
 
 .list-inline {
-  font-size: 1vw;
+  font-size: 5vw;
 }
 .list-inline a {
-color:#CCCCCC;
+color:$light-blue;
 }
