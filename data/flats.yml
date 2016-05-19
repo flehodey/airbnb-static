@@ -1,0 +1,35 @@
+# data/flats.yml
+seb:
+  owner_name: Sebastien Saunier
+  picture: card-paris.jpg
+  owner_picture: seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  max_number_guest: 6
+  rating: 3
+  city_picture: dubai.jpg
+romain:
+  owner_name: Romain Paillard
+  picture: card-london.jpeg
+  owner_picture: romain.jpeg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  max_number_guest: 6
+  rating: 4
+  city_picture: dubai.jpg
+anne:
+  owner_name: Anne Collet
+  picture: card-brussels.jpeg
+  owner_picture: anne.jpg
+  name: Anne's home
+  summary: Nice flat in Brussels
+  city: Brussels, Belgium
+  wifi: true
+  max_number_guest: 5
+  rating: 1
+  city_picture: dubai.jpg
+
