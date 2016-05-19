@@ -1,0 +1,26 @@
+/* line 1, /Users/felixlehodey/code/flehodey/airbnb-static/source/stylesheets/components/livecode.scss */
+.header-flat-name {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center; }
+
+/* line 5, /Users/felixlehodey/code/flehodey/airbnb-static/source/stylesheets/components/livecode.scss */
+.owner {
+  text-align: center;
+  padding: 20px; }
+
+/* line 11, /Users/felixlehodey/code/flehodey/airbnb-static/source/stylesheets/components/livecode.scss */
+.details {
+  font-size: 18px;
+  margin-top: 0; }
+
+/* line 16, /Users/felixlehodey/code/flehodey/airbnb-static/source/stylesheets/components/livecode.scss */
+.header-flat p {
+  font-weight: normal;
+  font-size: 15px;
+  color: #777777; }
